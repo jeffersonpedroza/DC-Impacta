@@ -1,0 +1,3 @@
+Codificacao.txt - quais linguagens de programacao sera feito o sistema e por que?
+
+Será usaddo pyton e SQL além de ser ferramentas atuais e seguras são compativeis com diversas outras aplicações.

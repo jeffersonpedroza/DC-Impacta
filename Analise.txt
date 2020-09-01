@@ -1,0 +1,15 @@
+A empresa X quer fazer viagens com um carro voador
+	que transporta pessoas, com limite de preço de até
+	10 dolares por viagem, por pessoa. 
+	Elabore um sistema para esta operacao.
+
+
+Analise.txt - o que o sistema tem que fazer?
+
+O sistema deve fazer autenticacao de usuario.
+O sistema deve alocar o carro voador mais proximo do usuario.
+O sistema deve possibilitar a solicitacao de uma viagem por aplicativo.
+O sistema deve receber pagamentos on-line.
+O sistema deve saber quantos passageiros irão embarcar. 
+O usuario deve conseguir avaliar o motorista e o motorista deve conseguir avaliar o usuario.
+O sistema deve entender que o motorias mais bem avaliado será o que fará mais corridas.

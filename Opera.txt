@@ -1,0 +1,3 @@
+Operacao.txt como vou implantar o software e monitorar a operacao do software?
+
+Iremos monitorar a aplicação via sensores de bugs da ferramenta, satisfação do usuarios e satisfação do motorista.

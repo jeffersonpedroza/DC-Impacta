@@ -1,0 +1,3 @@
+Arquitetura.txt - como o sistema vai ser feito?
+
+Aplicacao mobile e sistema, compativel com Android, IOS, Linux, Windows.

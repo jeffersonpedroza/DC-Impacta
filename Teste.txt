@@ -1,0 +1,4 @@
+Teste.txt - como serão os testes do sistema?
+
+Os testes serão realizados por motoristas e usuarios do app, onde eles terão que simular toos os tipos de funcionalidaes
+possivel dentro do app, como por exemplo: Solicitar viagem, cancelar viagem, realizar pagamento, reclamação, avaliação do app.
